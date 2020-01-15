@@ -13,7 +13,7 @@ cc.Class({
 
   properties: {
     scene:{
-      default:null,
+      default:"",
       type:cc.String
     }
     // foo: {

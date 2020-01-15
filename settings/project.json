@@ -1,16 +1,21 @@
 {
   "group-list": [
-    "default"
+    "default",
+    "UI"
   ],
   "collision-matrix": [
     [
+      false
+    ],
+    [
+      false,
       true
     ]
   ],
   "excluded-modules": [],
   "last-module-event-record-time": 1578715637750,
-  "design-resolution-width": 1158,
-  "design-resolution-height": 2436,
+  "design-resolution-width": 720,
+  "design-resolution-height": 1280,
   "fit-width": true,
   "fit-height": true,
   "use-project-simulator-setting": false,
@@ -30,6 +35,5 @@
     "live": {
       "enable": false
     }
-  },
-  "start-scene": "current"
+  }
 }
