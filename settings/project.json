@@ -13,9 +13,9 @@
     ]
   ],
   "excluded-modules": [],
-  "last-module-event-record-time": 1578715637750,
-  "design-resolution-width": 720,
-  "design-resolution-height": 1280,
+  "last-module-event-record-time": 1579429610595,
+  "design-resolution-width": 1280,
+  "design-resolution-height": 780,
   "fit-width": true,
   "fit-height": true,
   "use-project-simulator-setting": false,
@@ -35,5 +35,6 @@
     "live": {
       "enable": false
     }
-  }
+  },
+  "start-scene": "current"
 }
