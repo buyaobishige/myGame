@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "price": 1000,
+    "category":"食物",
+    "quantity":0,
+    "itemName": "泡面",
+    "intro": "这是一件商品",
+    "img": "itemIcons/UI-357"
+  },
+  {
+    "id": 2,
+    "price": 10,
+    "category":"食物",
+    "quantity":3,
+    "itemName": "辣条",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id": 3,
+    "price": 20,
+    "category":"食物",
+    "quantity":0,
+    "itemName": "面包",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id": 4,
+    "price": 40,
+    "category":"食物",
+    "quantity":0,
+    "itemName": "外卖",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id": 5,
+    "price": 300,
+    "category":"食物",
+    "quantity":0,
+    "itemName": "经典套餐",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id":6,
+    "price": 300,
+    "category":"文具",
+    "quantity":3,
+    "itemName": "钢笔",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id":7,
+    "price": 300,
+    "category":"文具",
+    "quantity":3,
+    "itemName": "字帖",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id":8,
+    "price": 300,
+    "category":"文具",
+    "quantity":3,
+    "itemName": "粉笔",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  },
+  {
+    "id":9,
+    "price": 300,
+    "category":"典籍",
+    "quantity":1,
+    "itemName": "生命是什么",
+    "intro": "这是一件商品",
+    "img": "itemIcons/instantNoodles"
+  }
+]
